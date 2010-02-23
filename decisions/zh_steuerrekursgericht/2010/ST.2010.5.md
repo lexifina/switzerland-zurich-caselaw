@@ -1,0 +1,352 @@
+---
+decision_id: "zh_steuerrekursgericht_ST.2010.5"
+court: "ZH Steuerrekursgericht"
+court_id: "zh_steuerrekursgericht"
+chamber: "ST"
+docket: "ST.2010.5"
+docket_2: "DB.2010.4"
+decided: "2010-02-23"
+language: "de"
+source_url: "https://www.strgzh.ch/assets/entscheide/StRG_ST_2010_5_tz.pdf"
+pdf_url: "https://www.strgzh.ch/assets/entscheide/StRG_ST_2010_5_tz.pdf"
+cites_decisions: ["BGE 133 II 420", "DB.2010.4", "SB.2007.00084", "ST.2010.5"]
+cites_law: ["switzerland/bund/acts/210/art-008.md", "switzerland/bund/acts/220/art-960.md", "switzerland/bund/acts/642.11/art-018.md", "switzerland/bund/acts/642.11/art-027.md", "switzerland/bund/acts/642.11/art-029.md", "switzerland/bund/acts/642.11/art-123.md", "switzerland/bund/acts/642.11/art-144.md"]
+---
+
+# Einschätzung 2007 und Direkte Bundessteuer 2007
+
+## Regeste
+
+Wertberichtigung einer Geldanlage in der Bilanz einer Arztpraxis. Weder Zugehörigkeit der Geldanlage zum Geschäftsvermögen noch deren Gefährdung am Bilanzstichtag nachgewiesen.
+
+## Text
+
+STEUERREKURSKOMMISSION I
+DES KANTONS ZÜRICH
+1 ST.2010.5
+1 DB.2010.4
+Entscheid
+23. Februar 2010
+Mitwirkend:
+Präsident A. Tobler, Mitglied M. Ochsner, Ersatzmitglied A. Widlund Sekretärin
+N. Obreschkow
+In Sachen
+1. A,
+2. B,
+Rekurrenten/
+Beschwerdeführer,
+Nr. 1 vertreten durch ORACO AG,
+Schärenmoosstrasse 52, 8052 Zürich,
+Nr. 2 vertreten durch Nr. 1,
+gegen
+1. Staat Zürich,
+Rekursgegner,
+2. Schweizerische Eidgenossenschaft,
+Beschwerdegegnerin,
+vertreten durch das kant. Steueramt,
+Division Dienstleistungen,
+Bändliweg 21, Postfach, 8090 Zürich,
+betreffend
+Einschätzung 2007 und Direkte Bundessteuer 2007
+
+- 2 -
+hat sich ergeben:
+A. A (nachfolgend der Pflichtige bzw. zusammen mit seiner Ehefrau B die
+Pflichtigen) betreibt in C eine Arztpraxis für Gynäkologie. In der Steuerklärung 2007
+deklarierte er einen damit erzielten Reingewinn gemäss Hilfsblatt A bzw. Abschluss
+von Fr. 83'071.-. Darin enthalten war als Aufwand eine Wertberichtigung auf Wert-
+schriften von Fr. 100'000.-.
+Mit Einschätzungsvorschlag vom 6. Mai 2009 zeigte der Steuerkommissär an,
+diese Wertberichtigung beim steuerbaren Einkommen 2007 aufzurechnen, da davon
+auszugehen sei, dass es sich um eine private Kapitalanlage und damit um einen priva-
+ten Kapitalverlust handle. Dem widersprachen die Pflichtigen mit dem Hinweis, die
+Geldanlage sei von einem Praxiskonto aus getätigt worden und daher geschäftlicher
+Natur. Die mit der Geldanlage beauftragte Gesellschaft habe die Fr. 100'000.- verun-
+treut, sodass das Geld verloren sei. Mit Auflage und Mahnung vom 22. Mai bzw.
+26. Juni 2009 untersuchte der Steuerkommissär den diesbezüglichen Sachverhalt. Die
+Pflichtigen reichten am 2. Juli und 28. August 2009 entsprechende Unterlagen ein. Mit
+Einschätzungsentscheid bzw. Hinweis vom 4. September 2009 schätzte er sie unter
+Aufrechnung der streitigen Wertberichtigung für die Steuerperiode 2007 wie folgt ein:
+Staats- und Gemeindesteuer Direkte Bundessteuer
+Fr. Fr.
+steuerbares Einkommen 225'500.- 224'100.-
+satzbestimmendes Einkommen 225'500.-
+steuerbares Vermögen 83'000.-
+satzbestimmendes Vermögen 160'000.-.
+Die Veranlagung der direkten Bundessteuer wurde mit Steuerrechnung vom
+2. Oktober 2009 formell eröffnet.
+B. Gegen die Einschätzung der Staats- und Gemeindesteuern liessen die
+Pflichtigen am 2. Oktober 2009 Einsprache erheben und beantragen, die fragliche
+Wertberichtigung als geschäftsmässig begründeten Praxisaufwand zu berücksichtigen.
+1 ST.2010.5
+1 DB.2010.4
+
+- 3 -
+Das kantonale Steueramt nahm diese Einsprache auch als solche gegen die
+direkte Bundessteuer entgegen und wies beide Rechtsmittel am 26. November 2009
+ab.
+C. Mit Rekurs bzw. Beschwerde vom 24. Dezember 2009 liessen die Pflichti-
+gen den Einspracheantrag erneuern.
+Das kantonale Steueramt schloss am 18. Januar 2010 auf Abweisung der
+Rechtsmittel. Die Eidgenössische Steuerverwaltung liess sich nicht vernehmen.
+Auf die Ausführungen der Parteien in diesen Rechtsschriften sowie auf die
+Begründung der Einspracheentscheide wird – soweit erforderlich – in den nachfolgen-
+den Erwägungen eingegangen.
+Die Rekurskommission zieht in Erwägung:
+1. a) Steuerbar sind laut Art. 18 Abs. 1 des Bundesgesetzes über die direkte
+Bundessteuer vom 14. Dezember 1990 (DBG) und § 18 Abs. 1 des Steuergesetzses
+vom 8. Juni 1997 (StG) alle Einkünfte aus einem Handels-, Industrie-, Gewerbe-, Land-
+und Forstwirtschaftsbetrieb, aus einem freien Beruf sowie aus jeder anderen selbst-
+ständigen Erwerbstätigkeit. Von diesen Einkünften werden nach Art. 27 DBG und § 27
+StG die geschäfts- oder berufsmässig begründeten Kosten abgezogen (je Abs. 1). Da-
+zu gehören namentlich Abschreibungen und Rückstellungen (je Abs. 2 lit. a). Unter
+Rückstellungen versteht der Gesetzgeber nicht nur Rückstellungen im eigentlichen
+(engeren) Sinn, sondern auch Wertberichtigungen auf dem Umlaufvermögen (Art. 29
+Abs. 1 lit. b DBG; Reich/Züger, in: Kommentar zum Schweizerischen Steuerrecht,
+Band I/2a, 2. A., 2008, Art. 29 N 2, 4 und 25 ff. DBG).
+b) Der Wert eines Aktivpostens (in der Bilanz) kann mittels Abschreibungen
+oder Wertberichtigungen herabgesetzt werden. In beiden Fällen wird die Verbuchung
+erfolgswirksam über die Gewinn- und Verlustrechnung vorgenommen, wodurch der
+ausgewiesene Gewinn vermindert wird. Unter einer Abschreibung ist damit die ge-
+1 ST.2010.5
+1 DB.2010.4
+
+- 4 -
+winnmindernde Herabsetzung des Ertragssteuerwerts eines Aktivums auf den mass-
+gebenden Bilanzwert zu verstehen (RB 1986 Nr. 40 = StE 1987 B 23.43.2 Nr. 4). Sie
+ist dazu bestimmt, Wertminderungen auszugleichen, wobei angenommen wird, die Ent-
+wertung sei bis zum Bilanzstichtag tatsächlich eingetreten, und hat damit definitiven
+Charakter. Mit der Wertberichtigung wird demgegenüber lediglich vorübergehenden
+Wertveränderungen auf Anlage- und Umlaufvermögen Rechnung getragen (Zum Gan-
+zen: VGr, 25. Juni 2008, SB.2007.00084; StE 2004 B 72.14.1 Nr. 22).
+Für die Beurteilung, ob eine verbuchte Abschreibung bzw. Wertberichtigung
+im Einzelfall geschäftsmässig begründet ist, sind grundsätzlich die Verhältnisse am
+Bilanzstichtag massgebend (Art. 958 Abs. 1 i.V.m. Art. 960 Abs. 2 OR). Indessen kön-
+nen alle bis zum Zeitpunkt der Bilanzerrichtung erhaltenen Informationen in der Jahres-
+rechnung verwendet werden, sofern dadurch Verhältnisse des Bilanzstichtags offen-
+kundig werden, die Auswirkungen auf Bilanz und Erfolgsrechnung haben (Karl Käfer,
+in: Berner Kommentar, 1981, Art. 960 N 332; RB 1986 Nr. 41 = StE 1987 B 23.43.2
+Nr. 4).
+c) Die Zulassung einer Abschreibung oder Wertberichtigung setzt voraus,
+dass das Aktivum, dessen Ertragssteuerwert gewinnmindernd herabgesetzt werden
+soll, dem Geschäftsvermögen angehört. Als Geschäftsvermögen gelten laut Art. 18
+Abs. 2 DBG bzw. § 18 Abs. 2 StG alle Vermögenswerte, die ganz oder vorwiegend der
+selbstständigen Erwerbstätigkeit dienen. Bei der Abgrenzung des Geschäfts- vom Pri-
+vatvermögen wird unterschieden zwischen Wirtschaftsgütern, die ihrer äusseren Be-
+schaffenheit nach eindeutig als Geschäfts- oder Privatvermögen erkennbar sind, und
+Wirtschaftsgütern, die ihrem Wesen und ihrer Funktion nach alternativ sowohl ge-
+schäftlichen als auch privaten Zwecken dienen können. Wertschriften und Geldmittel
+zählen zu den alternativen Wirtschaftsgütern.
+Ob ein Wertgegenstand dem Privat- oder dem Geschäftsvermögen zuzuord-
+nen ist, entscheidet sich aufgrund einer Würdigung aller in Betracht kommenden tat-
+sächlichen Umstände. Ausschlaggebendes Zuteilungskriterium ist dabei die aktuelle
+technisch-wirtschaftliche Funktion des fraglichen Vermögensgegenstands; massge-
+bend ist in erster Linie, ob der Gegenstand tatsächlich dem Geschäft dient. Die buch-
+mässige Behandlung eines Gegenstands ist im Rahmen der Gesamtwürdigung als
+Indiz zu werten. Vermag auf der einen Seite die Aufnahme in die Buchhaltung für sich
+allein die Zuteilung eines Vermögensobjekts zum Geschäftsvermögen nicht zu bewir-
+1 ST.2010.5
+1 DB.2010.4
+
+- 5 -
+ken, so kann auf der anderen Seite ein Gegenstand – aufgrund seiner technisch-
+wirtschaftlichen Funktion – auch dann Geschäftsvermögen darstellen, wenn er nicht in
+die Buchhaltung aufgenommen worden ist. Zu berücksichtigen ist also nicht die formel-
+le Aufnahme (oder Nichtaufnahme) des Gegenstands in die Bilanz, sondern die kon-
+krete buchhalterische Behandlung insgesamt. Von Bedeutung kann ebenfalls die Qua-
+lität der Buchführung des Steuerpflichtigen sein (BGE 133 II 420 E. 3.2).
+Ob ein Vermögensgegenstand aufgrund seiner technisch-wirtschaftlichen
+Funktion der selbstständigen Erwerbstätigkeit dient, bestimmt sich zwar grundsätzlich
+nach dem Willen der steuerpflichtigen Person. Allerdings muss sich der Widmungswille
+in den tatsächlichen Verhältnissen manifestieren; massgebend ist eine objektivierte
+Willenskundgebung. Dies gilt auch für den in der buchmässigen Behandlung des Ver-
+mögensgegenstands zum Ausdruck gebrachten Widmungswillen des Steuerpflichtigen.
+Daraus ergibt sich zum einen, dass der fragliche Gegenstand effektiv geschäftlichen
+Zwecken dienen muss, um Geschäftsvermögen zu sein. Zum anderen ist eine selbst-
+ständige Erwerbstätigkeit vonnöten, mit welcher der fragliche Gegenstand in Zusam-
+menhang steht (vgl. dazu Martin Arnold, Geschäfts- und Privatvermögen im schweize-
+rischen Einkommenssteuerrecht, ASA 75, 265 ff., 278 f.). Der Mittelherkunft für die
+Anschaffung des betreffenden Aktivums kommt ein geringeres Gewicht zu als seiner
+Zweckbestimmung im Betrieb. Geschäftsvermögen ist regelmässig dann anzunehmen,
+wenn ein Vermögensobjekt für Geschäftszwecke erworben worden ist und dem Ge-
+schäft auch tatsächlich (mittelbar oder unmittelbar) dient.
+d) Nach Art. 123 ff. DBG bzw. § 132 ff. StG haben die Steuerbehörden zu-
+sammen mit dem Steuerpflichtigen die für eine vollständige und gerechte Besteuerung
+massgebenden tatsächlichen und rechtlichen Verhältnisse festzustellen. Dabei haben
+sie in sinngemässer Anwendung von Art. 8 ZGB die steuerbegründenden Tatsachen
+nachzuweisen, der Steuerpflichtige dagegen jene Tatsachen, welche die Steuerschuld
+mindern oder aufheben (statt vieler: RB 1994 Nr. 33).
+Tatsachen, die Abschreibungen und Rückstellungen bzw. Wertberichtigungen
+als geschäftsmässig begründet erscheinen lassen, sind steuermindernd und deshalb
+von der steuerpflichtigen Person nachzuweisen. Zu diesen Tatsachen gehören einer-
+seits die Umstände, welche zur (vorübergehenden) Entwertung des betroffenen Akti-
+vums beigetragen haben, sowie andrerseits die Verhältnisse, welche auf dessen Zu-
+gehörigkeit zum Geschäftsvermögen schliessen lassen. Um die Beurteilung der
+1 ST.2010.5
+1 DB.2010.4
+
+- 6 -
+geschäftsmässigen Begründetheit von geltend gemachten Wertberichtigungen zu er-
+möglichen, sind die Steuerpflichtigen kraft der sie treffenden gesetzlichen Obliegenheit
+gehalten, an der Abklärung der solchen Aufwendungen zugrunde liegenden Tatsachen
+mitzuwirken, wobei sie für deren Verwirklichung beweisbelastet sind. Insbesondere
+haben sie spätestens vor Rekurskommission binnen der Rekursfrist eine substanziierte
+Sachdarstellung vorzutragen und die Beweismittel für deren Richtigkeit beizubringen
+oder zumindest unter genauer Bezeichnung anzubieten. Substanziiert ist eine Sach-
+darstellung dann, wenn aus ihr im Einzelnen Art, Motiv und Rechtsgrund der geltend
+gemachten Entwertung bzw. Zugehörigkeit zum Geschäftsvermögen in der Weise her-
+vorgehen, dass bereits gestützt darauf – aber unter Vorbehalt der Beweiserhebung –
+die rechtliche Beurteilung der geschäftsmässigen Begründetheit möglich ist. Fehlt es
+an einer in diesem Sinn genügenden Substanziierung, hat die Rekurskommission von
+sich aus keine Untersuchung zu führen, um sich die erforderlichen Grundlagen zu be-
+schaffen. Diesfalls hat eine Beweisabnahme zu unterbleiben mit der Wirkung, dass der
+Nachweis der geschäftsmässigen Begründetheit von Wertberechtigungen zu Unguns-
+ten der hierfür beweisbelasteten Steuerpflichtigen als misslungen zu betrachten ist. Nur
+ausnahmsweise können sich diese, wenn ihnen die Substanziierung und/oder Beweis-
+leistung aus Gründen, die sie nicht zu vertreten haben, unmöglich oder unzumutbar
+sind, auf Schätzungen berufen, sofern ihre Sachdarstellung wenigstens hinreichende
+Schätzungsgrundlagen enthält (zum Ganzen: RB 2002 Nr. 110, mit Hinweisen).
+2. a) Der Pflichtige ist als freiberuflicher Arzt (Gynäkologe) selbstständig er-
+werbstätig und hat über den Geschäftsgang der Arztpraxis nach kaufmännischer Art
+Buch geführt.
+Es ist streitig, ob eine im Geschäftsjahr 2007 vorgenommene Wertberichti-
+gung auf einer Geldanlage für die Steuerperiode 2007 zu Recht erfolgt ist. Somit ist zu
+klären, ob die fragliche Geldanlage dem Geschäfts- oder dem Privatvermögen zuzu-
+ordnen ist, da Abschreibungen und Wertberichtigungen nach dem Gesagten nur auf
+dem Geschäftsvermögen zulässig bzw. (einkommens-)steuerwirksam sind.
+b) aa) Der Pflichtige erhielt die finanziellen Mittel für die Tätigung der Geldan-
+lage von Fr. 100'000.- von seiner Vorsorgeeinrichtung H, indem ihm diese am 2. Mai
+2007 im Alter von 65 Jahren Altersleistungen in Form eines Kapitalbezugs von
+Fr. 304'368.- auf das Konto der Arztpraxis bei der Bank überwies. Die Herkunft der
+1 ST.2010.5
+1 DB.2010.4
+
+- 7 -
+Mittel ist damit dem privaten Bereich des Pflichtigen zuzuordnen, da die Altersvorsorge
+des selbstständig Erwerbenden stets dessen eigene, private Angelegenheit darstellt.
+bb) Von den erhaltenen Fr. 304'368.- hat der Pflichtige am 1. Juni 2007 die
+streitigen Fr. 100'000.- der D überwiesen und in der Bilanz der Arztpraxis als "Geldan-
+lage" aktiviert. Er erblickt die geschäftliche Verwendung dieser Geldanlage darin, dass
+er sich damit eine Bargeldreserve geschaffen habe, um bestimmte künftige Investitio-
+nen in der Arztpraxis zu tätigen. Um trotz Erreichen des Rentenalters noch bis zum
+70. Altersjahr weiterhin als Arzt tätig zu sein, habe er Apparate und Einrichtungen der
+Praxis, welche schon ziemlich alt gewesen seien, erneuern wollen. Geplant gewesen
+sei die Anschaffung eines neuen Ultraschallgeräts von Fr. 150'000.- und der Ersatz
+des Cardiotopographen von Fr. 30'000.- sowie die Sanierung der elektrischen Einrich-
+tungen samt Beleuchtung im Umfang von Fr. 10'000.- bis Fr. 15'000.-. Weil die D die
+für diese Investitionen reservierten Fr. 100'000.- unterschlagen bzw. veruntreut habe,
+hätten die Investitionen nicht mehr wie vorgesehen getätigt werden können. Stattdes-
+sen sei die Renovation in der Praxis zeitlich verschoben, auf die Ersatzbeschaffung
+des Cardiotopographen verzichtet und ein neues Ultraschallgerät nur gemietet/geleast
+worden, wobei Letzteres keine technischen Neuerungen und nur einen Neupreis von
+Fr. 30'000.- aufweise.
+Der Steuerkommissär hat den Pflichtigen mit Auflage und Mahnung vom
+22. Mai bzw. 26. Juni 2009 u.a. aufgefordert, die Motive der Geldanlage, deren Ge-
+schäftszweck bzw. Zugehörigkeit zum Geschäftsvermögen nicht nur substanziiert dar-
+zulegen, sondern auch mit geeigneten Unterlagen nachzuweisen. Es wäre daher an
+diesem gelegen, spätestens im Rekurs-/Beschwerdeverfahren die behauptete beab-
+sichtigte Verwendung der fraglichen Summe von Fr. 100'000.- zu den besagten Investi-
+tionszwecken in irgendeiner Form zu belegen. Das hat er jedoch in keiner Art und Wei-
+se getan, indem er weder diesbezügliche Unterlagen eingereicht noch andere
+Beweismittel auch nur schon genannt hat. Er hätte z.B. die nach seiner Darstellung in
+der Auflagebeantwortung vom 2. Juli 2009 erwähnten Verhandlungen mit den Geräte-
+lieferanten und dem Hauseigentümer sowie die in der Rekurs/Beschwerdeschrift ange-
+führte Besprechung mit dem Elektroinstallateur E über die Sanierung der elektrischen
+Einrichtungen samt Beleuchtung von diesen Personen zumindest bestätigen lassen
+können. Dergestalt wäre es ihm entgegen seinem Dafürhalten in der Einsprache sehr
+wohl möglich gewesen, den vorgesehenen Verwendungszweck der Geldanlage zu
+belegen, auch wenn – wie er weiter einwendet – noch keine Offerten eingeholt worden
+1 ST.2010.5
+1 DB.2010.4
+
+- 8 -
+waren. Ohne solche (minimen) Beweisleistungen ist die Steuerrekurskommission nicht
+in der Lage, die Richtigkeit seiner Vorbringen zu überprüfen.
+Die Sachdarstellung des Pflichtigen überzeugt aber ohnehin nicht. So will
+er ein neues Ultraschallgerät nur deshalb gemietet/geleast statt gekauft sowie in einer
+einfacheren Version und zum wesentlich günstigeren Preis von Fr. 30'000.- ausgewählt
+haben, weil die dafür vorgesehenen Fr. 100'000.- von der D veruntreut bzw. unter-
+schlagen worden seien. Indessen wurde dieses Gerät von ihm bereits am 22. Novem-
+ber 2007 bestellt und noch im Dezember 2007 ausgeliefert (Lieferantenrechnung der F
+vom 18. Dezember 2007), obwohl er die Geldanlage bei der D nach seinen Angaben
+erst mit Wirkung nach diesem Zeitpunkt, nämlich ein Festgeld mit einjähriger Laufzeit
+vom 28. Dezember 2007 bis 27. Dezember 2008, getätigt hat. Das schädigende Ver-
+halten der D bei Tätigung der Geldanlage kann damit erst nach Anschaffung des Ge-
+räts erfolgt sein und diese Anschaffung daher nicht beeinflusst haben. Damit erscheint
+aber die Behauptung des Pflichtigen, er habe mit den fraglichen Fr. 100'000.-
+ursprünglich ein Ultraschallgerät für Fr. 150'000.- anschaffen wollen, nicht als glaub-
+würdig.
+cc) Dergestalt hat der Pflichtige seine Vorbringen über den vorgesehenen
+geschäftlichen Zweck der streitigen Geldanlage weder hinreichend substanziiert noch
+in irgendeiner Form belegt. Da zudem schon die Herkunft der Mittel privater Natur ist,
+ist ihm der Nachweis, dass es sich dabei um ein Geschäftsaktivum handelt, nicht ge-
+lungen. Die Aktivierung der Geldanlage in der Praxisbuchhaltung ändert daran nichts,
+da die buchmässige Behandlung im Rahmen der anzustellenden Gesamtwürdigung
+zwar als Indiz zu werten ist, jedoch für sich allein die Zuteilung zum Geschäftsvermö-
+gen nicht zu bewirken vermag.
+Dies hat zur Folge, dass die Abschreibung von Fr. 100'000.- schon mangels
+Zugehörigkeit der Geldanlage zum Geschäftsvermögen nicht geschäftsmässig begrün-
+det ist.
+c) Selbst wenn die Geldanlage Geschäftsvermögen des Pflichtigen bildete,
+änderte sich daran nichts:
+aa) Bei den aktivierten Fr. 100'000.- soll es sich gemäss den Vorbringen des
+Pflichtigen um eine Festgeldanlage handeln. Indessen ist dies keineswegs gesichert.
+1 ST.2010.5
+1 DB.2010.4
+
+- 9 -
+So schloss der Pflichtige mit der D am 24. Mai 2007 einen Vermögensverwal-
+tungsvertrag, worin Betreuung und Verwaltung der eingebrachten Vermögenswerte nur
+allgemein umschrieben sind und festgehalten wird, die D vertrete ausschliesslich eine
+dynamische bis progressive Anlagepolitik, welche sie mit alternativen Anlageinstru-
+menten verfolge (Ziff. 1 und 2). Eine konkrete Geldanlage wird nicht erwähnt. Auch
+stellt eine Festgeldanlage kein alternatives Anlageinstrument dar und widerspräche
+eine solche Anlage der statuierten, ausschliesslich verfolgten dynamisch/progressiven
+Anlagepolitik. Bei den "persönlichen Angaben" (S. 4 des Vermögensverwaltungsver-
+trags) ist sodann neben der ungefähren Höhe des Gesamtvermögens nur die Summe
+der geplanten Vermögenseinlage von Fr. 100'000.- aufgeführt, jedoch ohne Angabe
+zur Art der beabsichtigten Anlage.
+Der Pflichtige hat im bisherigen Verfahren wiederholt geltend gemacht, die
+Festgeldanlage mit der D "vereinbart" zu haben. Wie und wann dies neben dem Ab-
+schluss des Vermögensverwaltungsvertrags geschehen sein soll, erwähnt er indessen
+nicht, ganz abgesehen davon, dass er hierfür trotz Auflage und Mahnung jeden Beweis
+schuldig geblieben ist. Lediglich im Steuerauszug per Ende 2007 führt die D u.a. ein
+Festgeld auf, jedoch nur mit Fr. 60'000.-. Diese Abweichung von der vereinbarten
+Summe von Fr. 100'000.- versucht der Pflichtige damit zu erklären, dass sämtliche
+Bescheinigungen der D erfunden seien, weil zu keiner Zeit auch nur ein Franken tat-
+sächlich im Sinn des Vermögensverwaltungsvertrags angelegt worden sei. Für diese
+Behauptung fehlt erneut jeglicher Beweis.
+bb) Den Verlust der Geldanlage begründet der Pflichtige damit, dass die Anla-
+ge von der D unterschlagen bzw. veruntreut worden sei. Wiederum hat er jedoch für
+diese Behauptung im bisherigen Verfahren keinerlei Beweismittel vorgelegt und auch
+keine solchen angeboten. Hierzu hätte er aber Anlass genug gehabt, forderte ihn der
+Steuerkommissär doch im Auflageverfahren auch auf, den geschäftsmässigen Nach-
+weis der Wertberichtigung per Ende 2007 mit beweiskräftigen Unterlagen zu erbringen.
+Schliesslich bleibt trotz Auflage und Mahnung auch ungeklärt, ob eine Gefähr-
+dung der Geldanlage im massgeblichen Zeitpunkt per 31. Dezember 2007 tatsächlich
+schon gegeben war. Diese Frage ist aufgrund der Akten zudem eher zu verneinen,
+wurde die Geldanlage gemäss den Angaben des Pflichtigen doch erst per 28. Dezem-
+ber 2007, d.h. nur zwei Tage vor dem Bilanzstichtag, getätigt und sollen die Geschä-
+digten über das strafrechtliche Verhalten der D erst viel später, im Mai 2008, informiert
+1 ST.2010.5
+1 DB.2010.4
+
+- 10 -
+worden sein. Wenn überhaupt, liesse sich eine Wertberichtigung bzw. Abschreibung
+der Geldanlage somit erst im Geschäftsjahr 2008 rechtfertigen.
+d) Nach alledem erweist sich die streitige Wertberechtigung nicht nur wegen
+mangelnder Zugehörigkeit der Geldanlage zum Geschäftsvermögen, sondern auch
+deshalb als geschäftsmässig nicht begründet, weil sowohl die Gefährdung der Anlage
+selber als auch deren zeitliche Manifestation am Bilanzstichtag nicht nachgewiesen
+wurden. Die Vorinstanz hat die Wertberichtigung daher zu Recht aufgerechnet.
+4. Diese Erwägungen führen zur Abweisung der Rechtsmittel. Ausgangsge-
+mäss sind die Kosten des Verfahrens den Pflichtigen aufzuerlegen (Art. 144 Abs. 1
+DBG, § 151 Abs. 1 StG). Eine Parteientschädigung ist nicht zuzusprechen (Art. 144
+Abs. 4 DBG i.V.m. Art. 64 Abs. 1 - 3 des Bundesgesetzes über das Verwaltungsverfah-
+ren vom 20. Dezember 1968).
+Demgemäss erkennt die Rekurskommission:
+1. Der Rekurs wird abgewiesen.
+2. Die Beschwerde wird abgewiesen.
+[…]
+1 ST.2010.5
+1 DB.2010.4
