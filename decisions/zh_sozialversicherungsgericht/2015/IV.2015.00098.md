@@ -1,0 +1,91 @@
+---
+decision_id: "zh_sozialversicherungsgericht_IV.2015.00098"
+court: "ZH Sozialversicherungsgericht"
+court_id: "zh_sozialversicherungsgericht"
+chamber: "IV"
+docket: "IV.2015.00098"
+decided: "2015-03-10"
+language: "de"
+source_url: "https://findex.webgate.cloud/entscheide/IV.2015.00098.html"
+cites_decisions: ["BGE 114 V 29", "BGE 120 V 357", "BGE 126 V 461", "BGE 126 V 75", "IV.2015.00098"]
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-046.md", "switzerland/bund/acts/830.1/art-049.md", "switzerland/bund/acts/831.20/art-004.md", "switzerland/bund/acts/831.20/art-016.md", "switzerland/bund/acts/831.20/art-069.md", "switzerland/bund/acts/831.201/art-005.md"]
+---
+
+# Art. 5 Abs. 5 IVV: Unterbringung in Ausbildungsstätte ist invaliditätsbedingt erforderlich, Gutheissung.
+
+## Text
+
+Sozialversicherungsgericht
+des Kantons Zürich
+ 
+ 
+ 
+IV.2015.00098
+ 
+II. Kammer
+Sozialversicherungsrichter Mosimann, Vorsitzender
+Sozialversicherungsrichterin Käch
+Ersatzrichterin Romero-Käser
+Gerichtsschreiberin Lienhard
+Urteil vom 10. März 2015
+in Sachen
+X.___, geb. 1997
+Beschwerdeführer
+gesetzlich vertreten durch die Mutter Y.___
+Zustelladresse: Z.___
+Bildungsdirektion Kanton Zürich, kjz A.___
+gegen
+Sozialversicherungsanstalt des Kantons Zürich, IV-Stelle
+Röntgenstrasse 17, Postfach, 8087 Zürich
+Beschwerdegegnerin
+Sachverhalt:
+1. X.___, geboren 1997, wurde am 22. August 2012 für berufliche Massnahmen bei der Invalidenversicherung angemeldet (Urk. 10/3). Die Sozialversicherungsanstalt des Kantons Zürich, IV-Stelle, tätigte die erforderlichen Abklärungen. Am 1. August 2014 begann der Versicherte eine Anlehre mit internem Aufenthalt im Landheim B.___ (Urk. 10/24). Die IV-Stelle erteilte mit Mitteilung vom 6. November 2014 (Urk. 10/27) Kostengutsprache für die erstmalige berufliche Ausbildung im Landheim B.___, vorerst ab 1. August 2014 bis 31. Juli 2015, wobei nur die Kosten für den externen Aufenthalt übernommen wurden. Dagegen wurde am 3. Dezember 2014 Einwand erhoben (Urk. 10/31). Mit Verfügung vom 9. Dezember 2014 hielt die IV-Stelle an ihrer Entscheidung fest (Urk. 10/32 = Urk. 2). 
+2. Am 22. Januar 2015 erhob der Versicherte Beschwerde gegen die Verfügung vom 9. Dezember 2014 (Urk. 2) und beantragte, es seien zusätzlich zu den Kosten für die erstmalige berufliche Ausbildung die Kosten für das betreute Wohnen im Landheim B.___ gemäss dem Tarif der Leistungsvereinbarung vom 1. Januar 2013 zu übernehmen (Urk. 1 S. 2). Mit Beschwerdeantwort vom 12. Februar 2015 (Urk. 9) beantragte die Beschwerdegegnerin die Abweisung der Beschwerde, was dem Beschwerdeführer am 18. Februar 2015 zur Kenntnis gebracht wurde (Urk. 11). 
+Das Gerichtzieht in Erwägung:
+1. 
+1.1 Nicht erwerbstätige Personen vor dem vollendeten 20. Altersjahr gelten als invalid, wenn die Beeinträchtigung ihrer körperlichen, geistigen oder psychischen Gesundheit voraussichtlich eine ganze oder teilweise Erwerbsunfähigkeit zur Folge haben wird (Art. 8 Abs. 2 des Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts, ATSG, in Verbindung mit Art. 5 Abs. 2 des Bundesgesetzes über die Invalidenversicherung, IVG).
+1.2 Nach Art. 16 Abs. 1 IVG haben Versicherte, die noch nicht erwerbstätig waren und denen infolge Invalidität bei der erstmaligen beruflichen Ausbildung in wesentlichem Umfange zusätzliche Kosten entstehen, Anspruch auf Ersatz dieser Kosten, sofern die Ausbildung den Fähigkeiten der versicherten Person entspricht. Als erstmalige berufliche Ausbildung gilt gemäss Art. 5 Abs. 1 der Verordnung über die Invalidenversicherung (IVV) jede Berufslehre oder Anlehre sowie, nach Abschluss der Volks- oder Sonderschule, der Besuch einer Mittel-, Fach- oder Hochschule und die berufliche Vorbereitung auf eine Hilfsarbeit oder auf die Tätigkeit in einer geschützten Werkstätte.
+1.3 Als invalid im Sinne von Art. 16 IVG gilt, wer aus gesundheitlichen Gründen bei einer seinen Fähigkeiten entsprechenden Ausbildung erhebliche Mehrkosten auf sich nehmen muss. Bezüglich psychischer Beeinträchtigungen sind die von der Rechtsprechung zum invalidisierenden geistigen oder psychischen Gesundheitsschaden (Art. 4 Abs. 1 IVG in Verbindung mit Art. 7 und 8 Abs. 1 ATSG) entwickelten Grundsätze auch im Bereich des Art. 16 IVG massgeblich; dabei ist jedoch nicht die Erwerbstätigkeit, sondern der beabsichtigte Ausbildungsgang mit seinen spezifischen Anforderungen Bezugspunkt (BGE 114 V 29 E. 1b in fine mit Hinweisen; Urteil des Bundesgerichts I 159/05 vom 16. März 2006 E. 3.2.2). Sodann ist es unerheblich, ob die versicherte Person bei Erlass der Verwaltungsverfügung an einem invalidisierenden Gesundheitsschaden leidet. Denn es kommt im Rahmen von Art. 4 Abs. 1 IVG (in Verbindung mit Art. 7 und 8 Abs. 1 ATSG), von seinem ausdrücklichen Wortlaut wie von der Systematik der Invalidenversicherung als final konzipierte Erwerbsausfallversicherung (AHI 1999 S. 79) her, nicht auf die Gleichzeitigkeit (Kontemporalität), sondern auf die Kausalität von Gesundheitsschaden und Erwerbsunfähigkeit an (BGE 126 V 461 E. 2 in fine, AHI 2003 S. 158 E. 2).
+1.4 Wird die versicherte Person infolge ihrer Invalidität in einer Ausbildungsstätte untergebracht, so übernimmt die Versicherung die Kosten von Verpflegung und Unterkunft (Art. 5 Abs. 5 IVV).
+Grundsätzlich können die Kosten für auswärtige Unterkunft nur übernommen werden, wenn die auswärtige Unterbringung aus invaliditätsbedingten Gründen erfolgt oder eine unerlässliche Bedingung für eine erfolgreiche Ausbildung darstellt, oder wenn die Rückkehr zum Wohnort nicht möglich oder nicht zumutbar ist. Hingegen können Wohnkosten nicht übernommen werden, wenn die Unterbringung einzig aus invaliditätsfremden, beispielsweise aus milieubedingten, Gründen erfolgt (Rz 3049 des Kreisschreibens über die Massnahmen beruflicher Art, KSBE, in der seit Januar 2014 geltenden Fassung). 
+2. 
+2.1 Die Beschwerdegegnerin sprach dem Beschwerdeführer mit der vorliegend angefochtenen Verfügung (Urk. 2) Mehrkosten der erstmaligen beruflichen Ausbildung zum Recyclingmitarbeiter beim Landheim B.___, vorerst beschränkt auf den Zeitraum vom 1. August 2014 bis 31. Juli 2015, zu. Die Kosten würden nach IV-Tarif extern vergütet. Eine Begründung, warum die Kosten der Unterbringung in der Ausbildungsstätte nicht übernommen würden, liegt nicht vor und wurde auch in der Beschwerdeantwort (Urk. 9) nicht nachgereicht.
+2.2 Der Beschwerdeführer hielt in seiner Beschwerde (Urk. 1) fest, er leide an einer niedrigen, unterdurchschnittlichen Intelligenz im Bereich der Lernbehinderung sowie an einer Störung des Sozialverhaltens. Er habe am 1. April 2014 zunächst einen Tagesaufenthalt im Landheim versucht, was aber nicht erfolgreich gewesen sei, da es ihm an genügender Stabilität und Struktur gefehlt habe (S. 1). Seit dem Eintritt in die Wohngruppe hätten sich sein Verhalten und die Sozialkompetenz zusehends verbessert. Er erscheine grösstenteils pünktlich zur Arbeit und seine Arbeitsleistung sei konstant gut. So habe der Lehrvertrag nun unterzeichnet werden können und er besuche nun auch regelmässig den Schulunterricht. Gemäss kinderpsychiatrischer Beurteilung stelle seine Störung eine deutliche Erschwernis der beruflichen Eingliederung dar und die sozialpädagogische zusätzliche Betreuung beim Wohnen sei medizinisch indiziert (S. 3 unten f.). Die Unterbringung im Landheim stelle deshalb eine unerlässliche Bedingung für eine erfolgreiche Ausbildung dar und sei invaliditätsbedingt angezeigt (S. 4).
+2.3 Streitig und zu prüfen ist, ob die Beschwerdegegnerin für die Mehrkosten der Unterbringung des Beschwerdeführers im Landheim aufzukommen hat. Unbestritten ist sein Anspruch auf erstmalige berufliche Ausbildung. 
+3.
+3.1 Verfügungen der Versicherungsträger müssen, wenn sie den Begehren der Parteien nicht voll entsprechen, eine Begründung enthalten, das heisst eine Darstellung des vom Versicherungsträger als relevant erachteten Sachverhaltes und der rechtlichen Erwägungen (Art. 49 Abs. 3 Satz 2 ATSG). Die Begründung eines Entscheides muss so abgefasst sein, dass die betroffene Person ihn gegebenenfalls anfechten kann. Dies ist nur dann möglich, wenn sowohl sie als auch die Rechtsmittelinstanz sich über die Tragweite des Entscheids ein Bild machen können. In diesem Sinne müssen wenigstens kurz die Überlegungen genannt werden, von denen sich der Versicherungsträger leiten liess und auf welche sich der Entscheid stützt. Dies bedeutet indessen nicht, dass sich die Verwaltung ausdrücklich mit jeder tatbeständlichen Behauptung und jedem rechtlichen Einwand auseinander setzen muss; vielmehr kann sie sich auf die für den Entscheid wesentlichen Gesichtspunkte beschränken (BGE 126 V 75 E. 5b/dd mit Hinweis, 118 V 56 E. 5b).
+Der Mangel eines nicht oder nur ungenügend begründeten Entscheides kann gemäss bundesgerichtlicher Rechtsprechung im Rechtsmittelverfahren geheilt werden, sofern die fehlende Begründung in der Vernehmlassung der entscheidenden Behörde zum Rechtsmittel enthalten ist oder den beschwerdeführenden Parteien auf andere Weise zur Kenntnis gebracht wird, diese dazu Stellung nehmen können und der Rechtsmittelinstanz volle Kognition zukommt (BGE 107 Ia 1). Gemäss der Rechtsprechung des Bundesgerichts kann es jedoch nicht der Sinn des durch die Rechtsprechung geschaffenen Instituts der Heilung des rechtlichen Gehörs sein, dass Versicherungsträger sich über den elementaren Grundsatz des rechtlichen Gehörs hinwegsetzen und darauf vertrauen, dass solche Verfahrensmängel in einem vom durch den Verwaltungsakt Betroffenen allfällig angehobenen Gerichtsverfahren behoben würden. Der Umstand, dass eine solche Heilungsmöglichkeit besteht, rechtfertigt es demnach nicht, auf die Anhörung des Betroffenen vor Erlass eines Entscheides zu verzichten. Denn die nachträgliche Gewährung des rechtlichen Gehörs bildet häufig nur einen unvollkommenen Ersatz für eine unterlassene vorgängige Anhörung. Abgesehen davon, dass ihr dadurch eine Instanz verloren gehen kann, wird der betroffenen Person zugemutet, zur Verwirklichung ihrer Mitwirkungsrechte ein Rechtsmittel zu ergreifen.
+Von der Rückweisung der Sache zur Gewährung des rechtlichen Gehörs an die Verwaltung ist nach dem Grundsatz der Verfahrensökonomie dann abzusehen, wenn dieses Vorgehen zu einem formalistischen Leerlauf und damit zu unnötigen Verzögerungen führen würde, die mit dem gleichlaufenden und der Anhörung gleichgestellten Interesse der versicherten Person an einer möglichst beförderlichen Beurteilung ihres Anspruchs nicht zu vereinbaren sind (BGE 120 V 357 E. 2b, 116 V 182 E. 3c und d).
+3.2 Die Beschwerdegegnerin ging in der angefochtenen Verfügung mit keinem Wort auf die hier strittige Frage ein, obwohl der Beschwerdeführer bereits vor Erlass der Verfügung Einwendungen dazu erhob (vgl. Urk. 10/31). Auch in der Beschwerdeantwort (Urk. 9) wurde nichts dazu gesagt. Dies führt nach dem vorstehend Gesagten grundsätzlich zur Aufhebung des angefochten Entscheides und zur Rückweisung der Sache zur rechtsgenüglichen Begründung. Da damit jedoch eine unnötige Verzögerung verbunden wäre, ist von einer Rückweisung abzusehen und in der Sache zu entscheiden. 
+4.
+4.1 Mit Bericht vom 24. Oktober 2011 (Urk. 10/1-8) stellten die Ärztinnen des C.___ (C.___) folgende Diagnosen (S. 6):
+klinisch-psychiatrisches Syndrom
+ICD-10 F91.3 Störung des Sozialverhaltens mit oppositionellem, aufsässigem Verhalten (Verdachtsdiagnose)
+ICD-10 F90.0 einfache Aktivitäts- und Aufmerksamkeitsstörung (Verdachtsdiagnose)
+Intelligenzniveau
+niedrige Intelligenz mit IQ von 70-84 (testpsychologisch ermittelt)
+körperliche Symptomatik
+Mikrozephalie
+Zu diesem Zeitpunkt lebte der Beschwerdeführer im Kinder- und Jugendheim D.___, nachdem die Mutter ihrer Erziehungsverantwortung nicht mehr habe gerecht werden können (S. 2). 
+4.2 Dr. med. E.___, Facharzt für Kinder-und Jugendmedizin, Regionaler Ärztlicher Dienst (RAD), hielt am 27. Mai 2013 zum medizinischen Sachverhalt fest, es sei aus versicherungsmedizinischer Sicht ein Gesundheitsschaden ausgewiesen, der für Massnahmen beruflicher Art qualifiziere. Das psychiatrische Krankheitsbild, die niedrige Intelligenz und der schulische Verlauf liessen Zusatzkosten bei der Ausbildung erwarten. Es schienen geeignete Rahmenbedingungen (unterstützend, strukturierend) erforderlich zu sein. Ob eine unterstützte Ausbildung im ersten Arbeitsmarkt gelingen könne, sei fraglich. Die Notwendigkeit einer geeigneten Wohnform begründe sich primär nicht durch den Gesundheitsschaden. Als Belastungen zu nennen seien Verhaltensauffälligkeiten, niedriger Intelligenzquotient im Bereich der Lernbehinderung, Konzentrations-, Aufmerksamkeits- und Gedächtnisschwierigkeiten, eingeschränkte Konfliktlösungsstrategien, Impulsivität, erhöhte Ablenkbarkeit (Urk. 10/18/2). 
+4.3 Dr. med. F.___, Facharzt für Kinder- und Jugendpsychiatrie und -psychotherapie, hielt mit Bericht vom 19. Januar 2015 (Urk. 3/4) fest, er gehe aufgrund der psychiatrischen Störung des Beschwerdeführers von einer deutlichen Erschwernis der beruflichen Eingliederung aus. Ohne enge sozialpädagogische Betreuung im Arbeitsbereich erachte er die Gefahr für eine nicht gelingende Eingliederung in den Arbeitsmarkt als sehr hoch. Aufgrund der schwierigen sozialen und familiären Verhältnisse sei es aus jugendpsychiatrischer und entwicklungsbezogener Sicht äusserst fraglich, ob der Beschwerdeführer in der Lage sei, ohne zusätzliche enge sozialpädagogische Begleitung in einer geschützten Wohnumgebung genügend Stabilität aufzubringen, um die begonnene Ausbildung im Landheim B.___ erfolgreich zu Ende zu bringen. Im weiteren Prozedere könnte bei einem günstigen Verlauf evaluiert werden, ob zu einem Tagesaufenthalts-Modus übergegangen werden könnte. Jedoch sei auch dann eine zusätzliche Betreuung für den Wohnbereich psychiatrisch indiziert, damit der Beschwerdeführer die begonnene Ausbildung im Landheim B.____ erfolgreich abschliessen könne (S. 1-2). 
+5.
+5.1 Dr. E.___ hielt fest, dass das psychiatrische Krankheitsbild, die niedrige Intelligenz und der schulische Verlauf Zusatzkosten bei der Ausbildung erwarten liessen und geeignete Rahmenbedingungen (unterstützend, strukturierend) erforderlich seien. Er nannte Verhaltensauffälligkeiten, den niedrigen Intelligenzquotienten im Bereich der Lernbehinderung, Konzentrations-, Aufmerksamkeits- und Gedächtnisschwierigkeiten, eingeschränkte Konfliktlösungsstrategien, Impulsivität und erhöhte Ablenkbarkeit als belastende Faktoren. Dabei handelt es sich um krankheitsbedingte Elemente. Warum dennoch die geeignete Wohnform nicht primär infolge des Gesundheitsschadens begründet sein soll, ist nicht nachvollziehbar und wurde von Dr. E.___ nicht erklärt. Nur schon aufgrund der Verhaltensauffälligkeit, der Impulsivität und der erhöhten Ablenkbarkeit erscheint es ohne weiteres als notwendig, dass der Beschwerdeführer die Ausbildung bei Unterbringung im Lehrbetrieb absolviert. Zwar trifft es zu, dass auch psychosoziale Umstände einen Einfluss auf die Unterbringung des Beschwerdeführers ausserhalb der Familie haben (vgl. Urk. 10/1 S. 7 Ziff. V), jedoch ist gestützt auf die aktuelle Beurteilung durch den psychiatrischen Facharzt Dr. F.___ davon auszugehen, dass die Unterbringung des Beschwerdeführers im Landheim überwiegend aufgrund der psychiatrischen Faktoren notwendig ist. Damit besteht ein kausaler Zusammenhang zwischen der Unterbringung und dem invalidisierenden Gesundheitsschaden. Die Unterbringung im Ausbildungsbetrieb erfolgt damit aus invaliditätsbedingten Gründen und bildet, wie Dr. F.___ darlegte, gleichzeitig eine unerlässliche Bedingung für eine erfolgreiche Ausbildung (vgl. vorstehend E. 1.4). Die entsprechenden Mehrkosten sind deshalb von der Beschwerdegegnerin zu übernehmen.
+5.2 Der angefochtene Entscheid ist nach dem Gesagten dahingehend abzuändern, dass die Beschwerdegegnerin die Kosten für die erstmalige berufliche Ausbildung zum Recyclingmitarbeiter im Landheim B.___ nach IV-Tarif für internes Wohnen, vorerst ab 1. August 2014 bis 31. Juli 2015, übernimmt.
+Dies führt zur Gutheissung der Beschwerde. 
+6. Da es um die Bewilligung oder Verweigerung von Versicherungsleistungen geht, ist das Verfahren kostenpflichtig. Die Gerichtskosten sind unabhängig vom Streitwert festzulegen (Art. 69 Abs. 1bis IVG) und auf Fr. 500.-- anzusetzen. Entsprechend dem Ausgang des Verfahrens sind sie der unterliegenden Beschwerdegegnerin aufzuerlegen. Damit erweist sich das Gesuch des Beschwerdeführers um unentgeltliche Prozessführung (Urk. 1 S. 2) als gegenstandslos.
+Das Gericht erkennt:
+1. In Gutheissung der Beschwerde wird die Verfügung der Sozialversicherungsanstalt des Kantons Zürich, IV-Stelle, vom 9. Dezember 2014 insoweit abgeändert, als festgestellt wird, dass der Beschwerdeführer Anspruch auf Übernahme der Mehrkosten der erstmaligen beruflichen Ausbildung mit Unterbringung im Landheim B.___, nach IV-Tarif intern, vorerst ab 1. August 2014 bis 31. Juli 2015, hat.
+2. Die Gerichtskosten von Fr.500.-- werden der Beschwerdegegnerinauferlegt. Rechnung und Einzahlungsschein werden derKostenpflichtigen nach Eintritt der Rechtskraft zugestellt.
+3. Zustellung gegen Empfangsschein an:
+Z.___
+Sozialversicherungsanstalt des Kantons Zürich, IV-Stelle
+Bundesamt für Sozialversicherungen
+sowie an:
+Gerichtskasse (im Dispositiv nach Eintritt der Rechtskraft)
+4. Gegen diesen Entscheid kann innert 30 Tagen seit der Zustellung beim Bundesgericht Beschwerde eingereicht werden (Art. 82 ff. in Verbindung mit Art. 90 ff. des Bundesgesetzes über das Bundesgericht, BGG). Die Frist steht während folgender Zeiten still: vom siebten Tag vor Ostern bis und mit dem siebten Tag nach Ostern, vom 15. Juli bis und mit 15. August sowie vom 18. Dezember bis und mit dem 2. Januar (Art. 46 BGG).
+Die Beschwerdeschrift ist dem Bundesgericht, Schweizerhofquai 6, 6004 Luzern, zuzustellen.
+Die Beschwerdeschrift hat die Begehren, deren Begründung mit Angabe der Beweismittel und die Unterschrift des Beschwerdeführers oder seines Vertreters zu enthalten; der angefochtene Entscheid sowie die als Beweismittel angerufenen Urkunden sind beizulegen, soweit die Partei sie in Händen hat (Art. 42 BGG).
+Sozialversicherungsgericht des Kantons Zürich
+Der Vorsitzende Die Gerichtsschreiberin
+Mosimann Lienhard
