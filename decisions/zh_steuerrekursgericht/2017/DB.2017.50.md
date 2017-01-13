@@ -1,0 +1,348 @@
+---
+decision_id: "zh_steuerrekursgericht_DB.2017.50"
+court: "ZH Steuerrekursgericht"
+court_id: "zh_steuerrekursgericht"
+chamber: "DB"
+docket: "DB.2017.50"
+docket_2: "ST.2017.63"
+decided: "2017-01-13"
+published: "2017-05-15"
+language: "de"
+source_url: "https://www.strgzh.ch/assets/entscheide/StRG_DB_2017_50_uc.pdf"
+pdf_url: "https://www.strgzh.ch/assets/entscheide/StRG_DB_2017_50_uc.pdf"
+cites_decisions: ["2C_390/2012", "2C_391/2012", "2C_393/2012", "2C_394/2012", "BGE 122 V 19", "BGE 132 V 200", "DB.2016.237", "DB.2017.50", "ST.2016.287", "ST.2017.63"]
+cites_law: ["switzerland/bund/acts/642.11/art-032.md", "switzerland/bund/acts/642.11/art-034.md", "switzerland/bund/acts/642.11/art-126.md", "switzerland/bund/acts/642.11/art-130.md", "switzerland/bund/acts/642.11/art-144.md"]
+---
+
+# Direkte Bundessteuer 2013 sowie Staats- und Gemeindesteuern 2013
+
+## Regeste
+
+Liegenschaftenunterhalt. Die Ersetzung einer naturnahen durch eine pflegeleichte Rasenfläche als Hausumschwung stellt keinen abzugsfähigen Unterhalt dar.
+
+## Text
+
+Steuerrekursgericht
+des Kantons Zürich
+2. Abteilung
+2 DB.2017.50
+2 ST.2017.63
+Entscheid
+15. Mai 2017
+Mitwirkend:
+Einzelrichter Christian Mäder und Gerichtsschreiber Hans Heinrich Knüsli
+In Sachen
+1. A,
+Steuergemeinde C,
+2. B,
+Steuergemeinde C,
+Beschwerdeführer/
+Rekurrenten,
+Nr. 2 vertreten durch Nr. 1,
+gegen
+1. Schweizerische Eidgenossenschaft,
+Beschwerdegegnerin,
+2. Staat Zürich,
+Rekursgegner,
+vertreten durch das kant. Steueramt,
+Division Süd,
+Bändliweg 21, Postfach, 8090 Zürich,
+betreffend
+Direkte Bundessteuer 2013 sowie Staats- und Gemeindesteuern 2013
+
+- 2 -
+hat sich ergeben:
+A. A und B (nachfolgend die Pflichtigen) sind Eigentümer der Einfamilienhaus-
+Liegenschaft …strasse … in D. In der Steuererklärung 2013 deklarierten sie effektive
+Unterhaltskosten für diese Liegenschaft von insgesamt Fr. 37'357.-; von diesen entfiel
+ein Betrag von Fr. 23'084.- auf die Position "Rasen neu ansäen". Mit Auflage vom
+30. Oktober 2015 verlangte der Steuerkommissär weitere Aufschlüsse zu dieser und
+weiteren – hier nicht interessierenden – Positionen, wozu sich die Pflichtigen am
+30. November 2015 äusserten. Der Steuerkommissär stellte sich in der Folge auf den
+Standpunkt, dass der neu angesäte Rasen nicht als Unterhalt, sondern als Neugestal-
+tung zu würdigen sei; ferner strich er einige weitere, als Verbrauch eingestufte Auf-
+wendungen und anerkannte Unterhaltskosten nur im Umfang von Fr. 13'547.-. Dem-
+entsprechend setzte er das steuerbare Einkommen mit Veranlagungsverfügung vom
+4. Januar 2016 auf Fr. 232'000.- (direkte Bundessteuer) und mit Einschätzungsent-
+scheid vom gleichen Tag auf Fr. 232'200.- (satzbestimmend Fr. 240'400.-; Staats- und
+Gemeindesteuern) fest; das steuerbare Vermögen belief sich auf Fr. 1'165'000.- (satz-
+bestimmend Fr. 1'485'000.-; nur Staats- und Gemeindesteuern).
+B. Im Einspracheverfahren, das u.a. das Ansäen des Rasens betraf, erliess
+der Steuerkommissär am 24. Juni 2016 eine weitere Auflage. Weil er die von den
+Pflichtigen am 27. Juli 2016 eingereichten Unterlagen für ungenügend erachtete,
+erging am 15. August 2016 eine gleichlautende Mahnung der Akteneinforderung. Mit
+Eingabe vom 29. August 2016 anerkannten die Pflichtigen einen wertvermehrenden
+Anteil der Position "Rasen neu ansäen" von (Rasenkantenplatten Fr. 2'021.- + Anteil
+Arbeit Fr. 2'000.- + Automower Fr. 5'200.- =) Fr. 9'221.-. Am 27. Januar 2017 hiess das
+kantonale Steueramt die Einsprachen teilweise gut, indem es für den Ersatz des vor-
+handenen Handrasenmähers einen Anteil von Fr. 3'000.- gewährte. Somit ermässigte
+sich das steuerbare Einkommen auf Fr. 229'000.- (direkte Bundessteuer) bzw.
+Fr. 230'700.- (satzbestimmend Fr. 237'400.-; Staats- und Gemeindesteuern); das steu-
+erbare Vermögen blieb unverändert.
+2 DB.2017.50
+2 ST.2017.63
+
+- 3 -
+C. Mit Beschwerde und Rekurs vom 25./27. Februar 2017 beantragten die
+Pflichtigen dem Steuerrekursgericht, dass ihnen der verbleibende Anteil an Unterhalts-
+kosten für den neuen Rasen von (Fr. 23'084.- ./. Fr. 9'221.- =) Fr. 13'863.- zum Abzug
+zuzulassen sei.
+Die Beschwerde-/Rekursantwort des kantonalen Steueramts vom
+15. März 2017 lautet auf Abweisung der Rechtsmittel.
+Auf die Erwägungen der Einspracheentscheide und die Parteivorbringen wird,
+soweit wesentlich, in den nachfolgenden Urteilsgründen zurückgekommen.
+Der Einzelrichter zieht in Erwägung:
+1. Gemäss Art. 25 des Bundesgesetzes über die direkte Bundessteuer vom
+14. Dezember 1990 (DBG) bzw. § 25 des Steuergesetzes vom 8. Juni 1997 (StG) wer-
+den zur Ermittlung des Reineinkommens die gesamten steuerbaren Einkünfte um die
+zu ihrer Erzielung notwendigen Aufwendungen und die allgemeinen Abzüge vermin-
+dert. Dazu gehören nach Art. 32 Abs. 2 Satz 1 DBG bzw. § 30 Abs. 2 Satz 1 StG bei
+Liegenschaften im Privatvermögen die Unterhaltskosten, die Versicherungsprämien
+und die Kosten der Verwaltung durch Dritte.
+2. a) Nach Lehre und Rechtsprechung sind unter Unterhaltskosten Aufwen-
+dungen zu verstehen, deren Ziel nicht die Schaffung neuer, sondern die Erhaltung bis-
+heriger Werte ist und die in längeren oder kürzeren Zeitabständen wiederkehren (Rich-
+ner/Frei/Kaufmann/Meuter, Handkommentar zum DBG, 3. A., 2016, Art. 32 N 37 DBG,
+und Kommentar zum Zürcher Steuergesetz, 3. A., 2013, § 30 N 36 ff. StG). Dazu gehö-
+ren einerseits die Aufwendungen für den laufenden Unterhalt – wie Kosten für Ausbes-
+serungsarbeiten aller Art und Ersatzanschaffungen – sowie die mit dem Grundstück
+verbundenen jährlich wiederkehrenden Abgaben. Abzugsfähig sind sodann auch Auf-
+wendungen für periodische Renovationen grösseren Ausmasses (Fassaden, Dach-
+renovation, zeitbedingte Änderung der Zentralheizung, Anpassung der elektrischen
+2 DB.2017.50
+2 ST.2017.63
+
+- 4 -
+Einrichtung an geänderte Vorschriften u. dgl.). Mit anderen Worten gelten als Unterhalt
+im Sinn von Art. 32 Abs. 2 DBG bzw. § 30 Abs. 2 StG Kosten, die der Instandhaltung
+des Grundstücks oder seiner Instandstellung dienen, d.h. der Nachholung unterbliebe-
+ner Instandhaltung (VGr, 22. April 1986 = StE 1987 B 44.13.1 Nr. 1; Richner/Frei/Kauf-
+mann/Meuter, Art. 32 N 39 ff. DBG und § 30 N 40 ff. StG), so dass das Grundstück
+weiterhin – allenfalls "modernisiert" – seinen bisherigen Verwendungszweck erfüllen
+kann.
+b) Nicht abzugsfähig sind demgegenüber Aufwendungen, welche zur Wertver-
+mehrung eines Grundstücks führen (Art. 34 lit. d DBG, § 33 lit. d StG). Dazu gehören
+alle Massnahmen, welche ein Grundstück in einen besseren Zustand versetzen, d.h.
+ein Haus in den Rang eines besser ausgestatteten, wertvolleren Gebäudes aufrücken
+lassen (Richner/Frei/Kaufmann/Meuter, Art. 32 N 48 DGB bzw. § 30 N 48b StG). Fer-
+ner sind all jene Aufwendungen nicht abzugsfähig, die sich als Lebenshaltungskosten
+erweisen (Art. 34 lit. a DBG, § 33 lit. a StG). Dies ist der Fall, wenn sie weder dem Un-
+terhalt noch der Schaffung liegenschaftlicher Werte, sondern einzig der Befriedigung
+persönlicher Bedürfnisse und Neigungen eines Steuerpflichtigen dienen und damit Ein-
+kommensverwendung darstellen (Peter Locher, Kommentar zum DBG, I. Teil, 2001,
+Art. 34 N 4). Als Lebenshaltungskosten gelten bei selbstbewohnten Liegenschaften
+beispielsweise die Farbtonänderung einer neuwertigen Bemalung, luxuriöse Anlagen,
+Ersatz von Installationen kurz nach deren Investition usw. (Richner/Frei/Kaufmann/
+Meuter, Art. 32 N 78 DBG bzw. § 30 N 65 StG), aber auch die periodisch wiederkeh-
+renden Verbrauchskosten (inkl. Grundgebühren) für Wasser, Abwasser, Entwässe-
+rung, Strom, Erdgas, Fernheizung, Kehricht und Feuerschau (BGr, 15. Juli 2005 =
+StE 2006 B 25.6 Nr. 53).
+c) Die Abgrenzung zwischen Werterhaltung und Wertvermehrung erfolgt in der
+Regel nach objektiv-technischen Kriterien (Richner/Frei/Kaufmann/Meuter, Art. 32 N 46
+DBG und § 30 N 48 StG). Ob das Objekt zufolge der Aufwendung wirtschaftlich für den
+Berechtigten einen höheren Wert aufweist oder nicht, ist somit unerheblich (RB 1997
+Nr. 47). Im Übrigen lassen sich bei Umbauten bestehender Gebäude wertvermehrende
+und werterhaltende Aufwendungen naturgemäss nicht immer scharf auseinanderhal-
+ten; sie lassen sich aus diesem Grund nur schätzen. Dabei ist es Sache des Steuer-
+pflichtigen, die notwendigen Schätzungsgrundlagen zu beschaffen. Hierzu bedarf es
+insbesondere genauer Angaben über die ausgeführten Arbeiten sowie den Zustand
+2 DB.2017.50
+2 ST.2017.63
+
+- 5 -
+und die Ausrüstung des Objekts vor und nach dem Umbau (RB 1997 Nr. 51; VGr,
+22. April 1986 = StE 1987 B 44.13.1 Nr. 1). Andernfalls ist die steuerrechtliche Beurtei-
+lung der Abzugsfähigkeit nicht möglich. Folge davon ist, dass die betreffenden Auf-
+wendungen entweder gänzlich unberücksichtigt bleiben müssen oder diese nach
+pflichtgemässem Ermessen im Sinn von Art. 130 Abs. 2 DBG bzw. § 139 Abs. 2 StG
+zu schätzen sind.
+d) Bei Aufwendungen für die Gartenpflege ist die Abgrenzung zwischen Un-
+terhaltskosten, wertvermehrenden Aufwendungen und Lebenshaltungskosten beson-
+ders schwierig und zudem gesamtschweizerisch nicht einheitlich, weil die Kantone
+auch bei der Festsetzung des Eigenmietwerts über eine gewisse "Bewertungsfreiheit"
+verfügen. Entsprechend werden Aufwendungen für die Gartenarbeit bei selbst genutz-
+ten Liegenschaften nicht überall gleich gewürdigt (BGr, 8. November 2012,
+2C_393/2012 + 2C_394/2012, E. 2.3, 7. August 2012, 2C_390/2012 + 2C_391/2012,
+E. 2.2, je mit Hinweisen auf die Lehre).
+3. a) Das kantonale Steueramt erwog in den Einspracheentscheiden, dass
+gemäss Rz 27 des Merkblatts des kantonalen Steueramtes über die steuerliche Ab-
+zugsfähigkeit von Kosten für den Unterhalt und die Verwaltung von Liegenschaften
+vom 13. November 2009 (ZStB 18/821; im Folgenden Merkblatt) gewöhnliche Garten-
+unterhaltskosten grundsätzlich abzugsfähig seien; davon ausgenommen seien die
+Neuanlage eines Gartens sowie Aufwendungen, die den normalen Gartenunterhalt
+überstiegen (Liebhaberei). Gemäss den detaillierten Schlussrechnungen der E AG
+Gartenbau vom 9. Dezember 2013 hätten die Hauptarbeiten im Entfernen von vier
+Obstbäumen samt Wurzelstöcken, im Bearbeiten der gesamten Fläche von 1'000 m²
+mit der Umkehrfräse, im Planieren und in der Reinplanie sowie im Handaushub für die
+Rasenkantensteine bestanden. Aus den eingereichten Fotos sei nicht ersichtlich, dass
+die Rasenfläche aus natürlichen Gründen hätte ersetzt werden müssen. Nach den Ak-
+ten sei vielmehr anzunehmen, dass sich der Ersatz aufgrund der Investition in einen
+Automower bzw. als Vorbereitung für einen solchen aufgedrängt habe. Sodann zeigten
+die Schlussrechnung sowie die eingereichten Bilder, dass die Pflichtigen den Garten
+neu gestaltet hätten und kein gleichwertiger Ersatz vorliege. Für die Auswechslung des
+bestehenden Handrasenmähers könne zusätzlich ein werterhaltender Anteil von
+Fr. 3'000.- gewährt werden.
+2 DB.2017.50
+2 ST.2017.63
+
+- 6 -
+An diesem Standpunkt hält die Amtsstelle in der Beschwerde-/Rekursantwort
+fest. Aus der Arbeitsbeschreibung in der Rechnung des Gartenbauunternehmens und
+den übrigen Akten gehe keine "defekte" Rasenfläche hervor. Weil das Hausgrundstück
+…strasse … an die Landwirtschaftszone grenze, müsse erfahrungsgemäss mit ver-
+mehrter Unkrautbildung gerechnet werden.
+b) Zur Begründung von Beschwerde und Rekurs bringen die Pflichtigen vor,
+dass der zuständige Steuerkommissär in allen Auflagen und Akteneinforderungen stets
+dasselbe eingefordert habe. Dabei habe er an die Art und die Qualität der beizubrin-
+genden Unterlagen unangemessen hohe Anforderungen gestellt. Für das Neuansäen
+eines Rasens seien weder Pläne noch eine Baubewilligung erforderlich. Sie vermöch-
+ten nur Fotos des Zustands vor und nach der Sanierung sowie die entsprechenden
+Rechnungen einzureichen. Der Streit betreffe den Anteil der abzugsfähigen Unterhalts-
+kosten, die in der Rechnung der E AG Gartenbau vom 9. Dezember 2013 ersichtlich
+seien. Entgegen der Auffassung des Steuerkommissärs handle es sich nicht um eine
+andere Anlage. Vielmehr hätten sie einzig den Rasen mit anderen Samen neu ange-
+sät. Es habe sich nämlich gezeigt, dass die Vertilgung des Unkrauts ebenso wenig
+nütze wie ein bloss partieller Ersatz des Rasens. Anlässlich der umfassenden Sanie-
+rung sei weder die Gesamtfläche noch die Geländeform noch der Zweck verändert
+worden. Bei den vier entfernten Bäumen handle es sich um 2 m grosse Spalierbäume,
+von denen zwei schon abgestorben gewesen seien. Es sei ihnen darum gegangen,
+den ursprünglichen Zustand des Rasens vor acht Jahren wiederherzustellen. Für das
+künftige Rasenmähen habe sich der Einsatz eines Automowers angeboten. Hierfür
+hätten lediglich stellenweise Rasenkantensteine verlegt werden müssen; die damit
+verbundenen Aufwendungen anerkannten sie als wertvermehrend.
+4. a) Laut Art. 126 DBG bzw. § 135 StG muss der Steuerpflichtige alles tun,
+um eine vollständige und richtige Veranlagung zu ermöglichen (Abs. 1). Er muss auf
+Verlangen der Veranlagungsbehörde insbesondere mündlich oder schriftlich Auskunft
+erteilen, Geschäftsbücher, Belege und weitere Bescheinigungen sowie Urkunden über
+den Geschäftsverkehr vorlegen (Abs. 2). In der Regel verlangt die Veranlagungsbe-
+hörde schriftliche Auskünfte in der Form einer klar spezifizierten Auflage. Nach dem in
+Art. 5 Abs. 2 der Bundesverfassung vom 18. April 1999 verankerten Grundsatz der
+Verhältnismässigkeit muss eine Auflage geeignet sein, den rechtserheblichen Sach-
+2 DB.2017.50
+2 ST.2017.63
+
+- 7 -
+verhalt zu erhellen, hierzu auch notwendig und schliesslich der steuerpflichtigen Per-
+son zumutbar sein (Richner/Frei/Kaufmann/Meuter, Art. 126 N 33 DBG bzw. § 135
+N 34 StG). Nach dem vorne in E. 2d Gesagten ist die Abgrenzung zwischen abzugsfä-
+higen und nicht abzugsfähigen Aufwendungen insbesondere im Bereich des Gartenun-
+terhalts schwierig. Aus diesem Grund lässt es sich nicht beanstanden, dass der Steu-
+erkommissär im Veranlagungs- wie im Einspracheverfahren eine Auflage zur näheren
+Klärung des Sachverhalts erlassen und diese – aus formellen Gründen (vgl. Rich-
+ner/Frwei/Kaufmann/Meuter, Art. 130 N 46 ff. DBG bzw.§ 139 N 66 ff. StG) – im Ein-
+spracheverfahren auch gemahnt hat.
+b) Wie das Bundesgericht festgehalten hat (vorne E. 2d), lässt das Bundes-
+recht den Kantonen nicht nur bei der Festsetzung des Eigenmietwerts, sondern auch
+bei der Anrechnung des mit diesem zusammenhängenden anrechenbaren Liegen-
+schaftenunterhalts einen gewissen Spielraum. Unter dem Randtitel "Gartenunterhalts-
+kosten" hält das Merkblatt in Rz 27 fest:
+"Gewöhnliche Gartenunterhaltskosten sind grundsätzlich abzugsfähig. Davon ausge-
+nommen sind die Neuanlage eines Gartens sowie Aufwendungen, die den normalen
+Gartenunterhalt übersteigen (Liebhaberei)."
+Sodann erklärt der Abgrenzungskatalog in Rz 49 unter Ziffer 5.3 "Gartenunterhalt" als
+abzugsfähig:
+"B. Kosten für ordentlichen Gartenunterhalt. Normale Rasenpflege, Reparatur oder
+gleichwertiger Ersatz des Rasenmähers, Baumschnitt, Schädlingsbekämpfung, etc.
+(keine luxuriösen Aufwendungen) …"
+Beim genannten Merkblatt handelt es sich um eine Verwaltungsverordnung, d.h. um
+die Dienstanweisung einer Behörde, mit der eine einheitliche, gleichmässige und sach-
+gerechte Praxis des Gesetzesvollzugs sichergestellt werden soll. Als blosse Verwal-
+tungsverordnungen statuieren Kreisschreiben keine Rechte und Pflichten der Privaten
+und sind sie keine Rechtsquellen des Verwaltungsrechts (vgl. Häfelin/Müller/Uhlmann,
+Allgemeines Verwaltungsrecht, 7. A., 2016, Rz 81 ff. mit Hinweisen). Das Steuerre-
+kursgericht ist als Gericht bei der Auslegung des Gesetzes an diese Dienstanweisun-
+gen nicht gebunden, sondern prüft allein, ob die Veranlagung mit dem Steuergesetz
+übereinstimmt. Es berücksichtigt Verwaltungsverordnungen bei seiner Entscheidung
+allerdings, soweit diese eine dem Einzelfall gerecht werdende Auslegung der mass-
+2 DB.2017.50
+2 ST.2017.63
+
+- 8 -
+geblichen Bestimmung zulässt, weil es nicht ohne Not von einer einheitlichen Praxis
+der Verwaltungsbehörden abweichen will (BGE 122 V 19, mit Hinweisen; vgl. auch
+BGE 132 V 200).
+c) Die Rechnung der E AG Gartenbau vom 9. Dezember 2013 betreffend
+"Gartenumänderung" enthält folgende Umschreibung der Gärtnerarbeiten:
+"Das nötige Material und die Maschinen auf die Baustelle transportieren.
+Roden: Vier Obstbäume entfernen inklusiv Wurzelstöcke. Grüngut aufladen und ent-
+sorgen.
+Rasenfläche: Bestehende Wiese mit Herbizid behandeln. Anschliessend die Wiese
+schneiden und das abgestorbene Grüngut zusammennehmen und entsorgen. Den
+Oberboden auf der gesamten Fläche mit der Umkehrfräse bearbeiten und anschlies-
+send planieren. Zur Erhaltung einer besseren Bodenstruktur wird noch Agrosil eingear-
+beitet (Bodenverbesserungsgranulat). Reinplanie auf dem Oberboden erstellen, ma-
+schinell wird das Saatgut ausgebracht. Die Fläche wird mit einem Herbstdünger
+ausreichend Nährstoffe erhalten, jedoch nur so stark, dass der Rasen mager durch den
+Winter kommt. (Rasenhalme sind weniger pilzanfällig, wenn sie mager über den Winter
+gehalten werden.) ca. 1'000 m²
+Rasenkantensteine: Handaushub für den Rasenkantenstein, dieser wird direkt auf den
+Oberboden verlegt.
+Das anfallende Material aufladen und entsorgen."
+d) Auf der Grundlage dieser Arbeitsumschreibung, auf welche die Pflichtigen
+im Einspracheverfahren wie auch vor Steuerrekursgericht verwiesen haben, und der
+beigelegten Fotografien fällt eine schlüssige Beurteilung der streitbetroffenen Arbeiten
+schwer. Das Hausgrundstück Kat.-Nr. … liegt gemäss Zonenplan der Stadt C südöst-
+lich von D in der Landwirtschaftszone. Wie die Pflichtigen in der Auflagenbeantwortung
+im Veranlagungsverfahren ausführten, hatten sie anlässlich des 2006 erstellten Er-
+satzbaus als Umschwung einen "Blumenrasen" gewählt, der 4-5mal jährlich gemäht
+worden sei. In der Einsprache führten sie aus, die Veränderung betreffe einzig das
+Saatgut, also die Zusammensetzung der Rasenmischung. Anstelle der früheren mage-
+ren Mischung mit wenig Blumenanteil hätten sie nun einen fetteren Samen ohne Blu-
+men angesät. Der Umstand, dass der Rasen nicht mehr vierzehntäglich wie früher,
+sondern nun mit einem Automower gemäht werde, bedeute keine Zweckänderung. Die
+Erfahrung habe gezeigt, dass ein kurz geschnittener Rasen vorzuziehen sei. Weil ihr
+Grundstück an Landwirtschaftsgebiet grenze, habe sich in den vergangenen Jahren
+immer mehr Unkraut gebildet. In der Auflagebeantwortung im Einspracheverfahren
+wiesen die Pflichtigen darauf hin, dass die Rasenfläche rund 800 m² ausmache und
+sich gegenüber früher nicht verändert habe. In der Beschwerde-/Rekursschrift wird
+2 DB.2017.50
+2 ST.2017.63
+
+- 9 -
+ergänzend ausgeführt, dass zwei der vier Spalierbäume schon abgestorben gewesen
+seien.
+Die wenig aussagekräftige Fotografie des früheren Zustands erweckt den Ein-
+druck eines eher naturnah gehaltenen, offenbar nicht regelmässig gemähten Rasens
+mit vielen Wiesenblumen. Angesichts der Lage des Grundstücks Kat.-Nr. … in der
+Landwirtschaftszone neben landwirtschaftlich genutzten Feldern entspricht es der all-
+gemeinen Erfahrung, dass in einem Rasen über kurz oder lang auch verschiedene
+Blumen und Unkräuter spriessen. Von einem Mangel, der einer Instandstellung oder
+Sanierung bedürfte, kann deswegen nicht gesprochen werden. Vielmehr ist es eine
+Frage des Geschmacks, ob der Hausumschwung eher naturnah oder eher künstlich
+ausgestaltet wird. So gesehen erscheint die Umwandlung der früheren, eher wiesen-
+ähnlichen Fläche in einen pflegeleichten Rasen nicht als Unterhalt. Ob es sich bei einer
+solchen Massnahme um Lebenshaltungskosten oder Wertvermehrung – für letztere
+spricht der Umstand, dass der Markt einem pflegeleichten Rasen den Vorzug geben
+dürfte – handelt, kann hier offenbleiben. Nach Darstellung der Pflichtigen sind zwei
+noch lebende Spalierbäume gefällt worden; diese Massnahme stellt offensichtlich kei-
+nen Unterhalt dar, sondern dürfte im Hinblick auf den vorgesehenen Einsatz eines Au-
+tomowers erfolgt sein. Als Unterhalt ist höchstens die Beseitigung der beiden offenbar
+schon abgestorbenen Bäume zu würdigen, was allerdings kaum ins Gewicht fällt.
+Hinzu kommt, dass das Merkblatt in Rz. 27 nur "gewöhnliche" Gartenunter-
+haltskosten zum Abzug zulässt und Rz 5.3 des Abgrenzungskatalogs von Kosten für
+"ordentlichen" Gartenunterhalt sowie "normale" Rasenpflege spricht. Angesichts des in
+E. 2d erwähnten Spielraums, welcher das Bundesgericht den Kantonen bei der Festle-
+gung der abzugsfähigen Gartenpflege einräumt, besteht für das Steuerrekursgericht
+kein Anlass, von der eher restriktiven Linie des Merkblatts abzuweichen (ebenso StRG,
+13. Januar 2017, 2 DB.2016.237 + 2 ST.2016.287, wo entsprechend dem Merkblatt für
+die Asphaltierung eines gekiesten Vorplatzes kein Unterhaltskostenanteil gewährt wur-
+de).
+Nachdem das Bundesgericht im Entscheid 2C_390/2012 + 2C_391/2012 vom
+7. August 2012 – freilich mit Blick auf das fortgeschrittene Alter der Beschwerdeführe-
+rin – den Ersatz eines "gewöhnlichen" Rasenmähers durch einen Automower als Un-
+terhalt anerkannt hat, ist das kantonale Steueramt im Einspracheverfahren zu Recht
+2 DB.2017.50
+2 ST.2017.63
+
+- 10 -
+auch so verfahren. In Anbetracht der gängigen Angebote erscheint der hierfür zuge-
+standene Betrag von Fr. 3'000.- als angemessen.
+5. Diese Erwägungen führen zur Abweisung von Beschwerde und Rekurs. Bei
+diesem Prozessausgang sind die Gerichtskosten den Pflichtigen aufzuerlegen (Art. 144
+Abs. 1 DBG, § 151 Abs. 1 StG).
+Demgemäss erkennt der Einzelrichter:
+1. Die Beschwerde wird abgewiesen.
+2. Der Rekurs wird abgewiesen.
+[…]
+2 DB.2017.50
+2 ST.2017.63
