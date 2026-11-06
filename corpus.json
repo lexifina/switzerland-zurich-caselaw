@@ -1,0 +1,39 @@
+{
+  "corpus": "ch/zh/caselaw",
+  "path": "switzerland/zurich/caselaw",
+  "name": "Case law: Zurich (cantonal courts and bodies)",
+  "label": "Switzerland case law (Zurich)",
+  "language": "de",
+  "kind": "judgments",
+  "history": "in-force",
+  "coverage": "86988 published decisions, one file and one commit each, dated the day decided; 699535 citations of federal law linked to switzerland-law.",
+  "history_from": "1935-09-17",
+  "record_to": "2026-11-06",
+  "checked_on": "2026-11-06",
+  "record_note": "Court decisions, not laws: every commit is Kind: court. In-force is the day the decision was given (the publication day where the court gives no decision day). Decisions with no date at all are in decisions/<court>/undated/. Commits before 1970 are dated 1970-01-01 (a second apart); In-force holds the real day.",
+  "in_force_trailer": "In-force",
+  "correction_trailer": "Corrected",
+  "dates": {
+    "commit": "decided",
+    "other_trailers": [
+      "Decided",
+      "Published"
+    ],
+    "time": "12:00 Europe/Zurich"
+  },
+  "overlay": {
+    "path": "judgments/switzerland/bund/acts/<SR>/art-NNN.jsonl",
+    "law_corpus": "switzerland/bund/acts",
+    "fields": [
+      "decided",
+      "name",
+      "court",
+      "citation",
+      "url",
+      "how",
+      "mentions",
+      "decision",
+      "law_commit"
+    ]
+  }
+}
