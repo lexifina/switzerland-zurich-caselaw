@@ -1,5 +1,7 @@
 # Swiss case law: Zurich (cantonal courts and bodies)
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the case law of Zurich, Switzerland, which global-law reads at `switzerland/zurich/caselaw/`.
+
 Every published decision of these courts and bodies as a git history: one file per decision, one commit per decision,
 dated the day it was decided. 86,988 decisions from 1935-09-17 to 2026-11-06. Part of
 [lexifina/global-law](https://github.com/lexifina/global-law) at `switzerland/zurich/caselaw`.
